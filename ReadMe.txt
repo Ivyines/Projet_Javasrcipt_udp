@@ -49,5 +49,7 @@ Une fois connecté :
 o	les valeurs numériques (distance, température, humidité),
 o	un graphique dynamique (Chart.js),
 o	des jauges visuelles,
-o	une alerte sonore en cas de distance critique.
+o	une alerte sonore en cas de distance critique.
+
+
 
